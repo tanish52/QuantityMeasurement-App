@@ -1,5 +1,5 @@
 package Uc4;
-
+import java.util.*;
 public class UC4 {
 
    static class Length{
