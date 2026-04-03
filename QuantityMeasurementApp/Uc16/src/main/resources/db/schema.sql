@@ -1,0 +1,7 @@
+CREATE TABLE measurement (
+id INT AUTO_INCREMENT PRIMARY KEY,
+type VARCHAR(50),
+operation VARCHAR(50),
+value DOUBLE,
+timestamp TIMESTAMP
+);
